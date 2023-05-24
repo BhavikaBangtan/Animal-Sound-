@@ -1,0 +1,31 @@
+
+body{
+    background-color:lightpink;
+    text-align: center;
+    font-family: 'Cherry Bomb One', cursive;
+}
+.head h1{
+    text-shadow: 3px 3px 1px white;
+}
+.head{
+    background-color: lightgrey;
+    font-size: large;
+}
+.head p{
+    color:honeydew
+}
+.middle button{
+    background-color: lavender;
+}
+#audiodetect{
+       text-shadow: 3px 3px 1px plum;
+}
+.foot{
+background-color: thistle;
+position: fixed;
+bottom: 0;
+width:100%;
+letter-spacing:2px;
+text-shadow: 3px 2px 1px white;
+line-height:20px;
+}
